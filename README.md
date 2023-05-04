@@ -1,8 +1,8 @@
 
 # Java Donut
-This is a Java implementation of the Spinning Donut program by Andy Sloane, originally written in C++. The program uses ASCII art to create a 3D spinning donut that rotates on the screen.
+This is a Java implementation of the Spinning Donut program by Andy Sloane, originally written in C. The program uses ASCII art to create a 3D spinning donut that rotates on the screen.
 
-- [Source C++ Code](https://www.dropbox.com/s/79ga2m7p2bnj1ga/donut_deobfuscated.c?dl=0)
+- [Source C Code](https://www.dropbox.com/s/79ga2m7p2bnj1ga/donut_deobfuscated.c?dl=0)
 - [Explanatory blog post](https://www.a1k0n.net/2011/07/20/donut-math.html) by Andy Sloane
 - [Explanatory video](https://www.youtube.com/watch?v=DEqXNfs_HhY) by [Lex Fridman](https://lexfridman.com/), research scientist at MIT.
 
